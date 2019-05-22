@@ -1,6 +1,6 @@
 # 2D TEST CONTROLS
 ------
-This repository is for testing and implementing of controllers, objectives, timer etc. (Any 2D game that has any available features). 
+This repository is for testing and implementing of controllers, objectives, timer etc. (Any 2D games that has a features). 
 ------
 ## Features that need to test
 1. Health Bar
